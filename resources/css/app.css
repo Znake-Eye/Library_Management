@@ -1,0 +1,30 @@
+.testing{
+    color:red;
+}
+.library-settings{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.library-category img{
+    height: 130px;
+    margin-top: 80px;
+}
+.library-category{
+    text-align: center;
+}
+
+.library-btn-category{
+    width: 60%;
+    background: #4992ff;
+    color: #fff;
+    border: 2px solid #4992ff;
+    height: 35px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.library-btn-category:hover{
+    background: rgb(74, 74, 102);
+}
+.library-clikc-btn{
+    margin-top: 10px;
+}
